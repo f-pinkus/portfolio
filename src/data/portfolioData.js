@@ -67,7 +67,7 @@ export const projects = [
 export const resumeURL = 'https://your-resume-link.com'; // TODO: Replace with your actual resume link
 
 export const contactInfo = {
-  email: 'faigypinkus@gmail.com', // TODO: Replace with your actual email
-  linkedin: 'https://linkedin.com/in/faigypinkus', // TODO: Replace with your LinkedIn profile
-  github: 'https://github.com/f-pinkus' // TODO: Replace with your GitHub profile
+  email: 'faigypinkus@gmail.com',
+  linkedin: 'https://linkedin.com/in/faigypinkus',
+  github: 'https://github.com/f-pinkus'
 };
