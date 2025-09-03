@@ -23,7 +23,7 @@ export const projects = [
     title: 'Capstone Project',
     description: 'A comprehensive web application built with modern technologies, featuring user authentication, real-time updates, and responsive design.',
     // TODO: Replace with your actual project image
-    image: 'https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'src/data/images/CapstoneDashboard.png',
     imageAlt: 'Capstone project screenshot showing the main dashboard interface',
     githubUrl: 'https://github.com/yourusername/capstone',
     liveUrl: 'https://your-capstone-demo.com',
