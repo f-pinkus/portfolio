@@ -26,7 +26,7 @@ export const projects = [
     image: 'src/data/images/CapstoneDashboard.png',
     imageAlt: 'Capstone project screenshot showing the main dashboard interface',
     githubUrl: 'https://github.com/yourusername/capstone',
-    liveUrl: 'https://your-capstone-demo.com',
+    liveUrl: 'https://biteshare1.netlify.app/',
     tech: ['React', 'Node.js', 'PostgreSQL']
   },
   {
